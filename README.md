@@ -71,9 +71,6 @@ e.g.
  2+5
  ```
 
-A number of samples is given in test file **Calculatorimplementationspec** and **calculatorspec**.
-
-
 Source files that are implementing this functionality are:
 
 * Calculator.scala
